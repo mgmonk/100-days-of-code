@@ -33,8 +33,9 @@
 # 100 Days Of Code - Log
 ### Day 0 - May 5, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Brushing up on version control with Git.  Finishing the HTML/CSS sections of FreeCodeCamp.
 
 **Thoughts**:
 
 **Links to Resources**:
+1. [An article on the basics of Git](https://medium.freecodecamp.org/learn-the-basics-of-git-in-under-10-minutes-da548267cc91)
