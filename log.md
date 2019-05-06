@@ -33,9 +33,11 @@
 # 100 Days Of Code - Log
 ### Day 0 - May 5, 2019
 
-**Today's Progress**: Brushing up on version control with Git.  Finishing the HTML/CSS sections of FreeCodeCamp.
+**Today's Progress**: Brushing up on version control with Git.  Finished the HTML/CSS sections of FreeCodeCamp.  Complete the Intro to CSS section of Colt Steele's Web Developer Boot Camp.
 
-**Thoughts**:
+**Thoughts**: I'm definitely enjoying getting back into working with technology and excited for the next 99 days.  I had some extra time in my schedule today so I was able to make some substantial progress.
 
 **Links to Resources**:
 1. [An article on the basics of Git](https://medium.freecodecamp.org/learn-the-basics-of-git-in-under-10-minutes-da548267cc91)
+2. [Learn git Branching](https://learngitbranching.js.org/)
+3. [FreeCodeCamp](freecodecamp.org)
