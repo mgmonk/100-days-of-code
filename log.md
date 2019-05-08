@@ -50,3 +50,13 @@
 
 **Links to Resources**:
 1. [FreeCodeCamp](freecodecamp.com)
+
+### Day 2 - May 7, 2019
+
+**Today's Progress**: Completed FreeCodeCamp's Applied Accessibility challenges and made some progress on Colt Steele's Intermediate CSS module.
+
+**Thoughts**: Had some fun learning about accessibility and CSS font properties today.
+
+**Links to Resources**:
+1. [FreeCodeCamp](freecodecamp.com)
+2. [Google Fonts](fonts.google.com)
