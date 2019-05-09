@@ -60,3 +60,12 @@
 **Links to Resources**:
 1. [FreeCodeCamp](freecodecamp.com)
 2. [Google Fonts](fonts.google.com)
+
+### Day 3 - May 8, 2019
+
+**Today's Progress**: Completed FreeCodeCamp's Responsive Web Design Principles. Made progress on Colt Steele's Web Developer Bootcamp.   
+
+**Thoughts**: Feeling more comfortable with CSS! Looking forward to learning more about CSS positioning.
+
+**Links to Resources**:
+1. [FreeCodeCamp](freecodecamp.com)
