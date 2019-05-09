@@ -40,7 +40,7 @@
 **Links to Resources**:
 1. [An article on the basics of Git](https://medium.freecodecamp.org/learn-the-basics-of-git-in-under-10-minutes-da548267cc91)
 2. [Learn git Branching](https://learngitbranching.js.org/)
-3. [FreeCodeCamp](freecodecamp.org)
+3. [FreeCodeCamp](http://www.freecodecamp.com)
 
 ### Day 1 - May 6, 2019
 
@@ -49,7 +49,7 @@
 **Thoughts**: Didn't have as much time in my schedule as I did yesterday, but I made the time to work through some exercises. I'm motivated to keep going.
 
 **Links to Resources**:
-1. [FreeCodeCamp](freecodecamp.com)
+1. [FreeCodeCamp](http://www.freecodecamp.com)
 
 ### Day 2 - May 7, 2019
 
@@ -58,7 +58,7 @@
 **Thoughts**: Had some fun learning about accessibility and CSS font properties today.
 
 **Links to Resources**:
-1. [FreeCodeCamp](freecodecamp.com)
+1. [FreeCodeCamp](http://www.freecodecamp.com)
 2. [Google Fonts](fonts.google.com)
 
 ### Day 3 - May 8, 2019
