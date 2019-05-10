@@ -68,4 +68,13 @@
 **Thoughts**: Feeling more comfortable with CSS! Looking forward to learning more about CSS positioning.
 
 **Links to Resources**:
-1. [FreeCodeCamp](freecodecamp.com)
+1. [FreeCodeCamp](http://www.freecodecamp.com)
+
+### Day 4 - May 9, 2019
+
+**Today's Progress**: Learning Bootstrap.
+
+**Thoughts**: It's been a while since I've used Bootstrap and this is my first time looking at Bootstrap 4!
+
+**Links to Resources**:
+1. [Bootstrap](https://getbootstrap.com/)
