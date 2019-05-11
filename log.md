@@ -78,3 +78,13 @@
 
 **Links to Resources**:
 1. [Bootstrap](https://getbootstrap.com/)
+
+### Day 5 - May 10, 2019
+
+**Today's Progress**: Finished FreeCodeCamp's lessons on CSS Flexbox.  Learned more about using Bootstrap from Colt Steele's Web Developer Bootcamp.
+
+**Thoughts**: Excited for the weekend!  Lots of free time to code!
+
+**Links to Resources**:
+1. [FreeCodeCamp](http://www.freecodecamp.com)
+2. [Bootstrap](https://getbootstrap.com/)
