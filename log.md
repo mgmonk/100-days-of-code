@@ -88,3 +88,12 @@
 **Links to Resources**:
 1. [FreeCodeCamp](http://www.freecodecamp.com)
 2. [Bootstrap](https://getbootstrap.com/)
+
+### Day 6 - May 11, 2019
+
+**Today's Progress**: Finished studying CSS grid using FreeCodeCamp. Built a tribute to Dieter Rams using just HTML/CSS. Built a startup landing page using Bootstrap.
+
+**Thoughts**:
+
+**Links to Work**:
+1. [Dieter Rams Tribute](https://codepen.io/mgmonk/full/eaJKvK)
