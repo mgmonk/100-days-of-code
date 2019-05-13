@@ -97,3 +97,12 @@
 
 **Links to Work**:
 1. [Dieter Rams Tribute](https://codepen.io/mgmonk/full/eaJKvK)
+
+### Day 7 - May 12, 2019
+
+**Today's Progress**: Finished my product landing page for FreeCodeCamp.  Began working on the Basic Javascript module.
+
+**Thoughts**: I'm getting more comfortable with HTML/CSS but still would not consider myself proficient. Need to practice more with flexbox, forms, and media queries.  Excited to get into more Javascript.
+
+**Links to Work**:
+1. [Product Landing Page](https://codepen.io/mgmonk/full/QREORJ)
