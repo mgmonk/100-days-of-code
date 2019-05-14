@@ -106,3 +106,13 @@
 
 **Links to Work**:
 1. [Product Landing Page](https://codepen.io/mgmonk/full/QREORJ)
+
+### Day 8 - May 13, 2019
+
+**Today's Progress**: Working on the Basic JavaScript lessons on FreeCodeCamp. Still finishing some user stories on my HTML/CSS form for the Responsive Web Design projects.
+
+**Thoughts**: I'm liking working with JavaScript.  Thinking of also picking up a copy of Eloquent JavaScript to supplement FreeCodeCamp.
+
+**Links to Resources**:
+1. [Eloquent JavaScript](https://eloquentjavascript.net/)
+
