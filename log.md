@@ -116,3 +116,11 @@
 **Links to Resources**:
 1. [Eloquent JavaScript](https://eloquentjavascript.net/)
 
+### Day 9 - May 14, 2019
+
+***Today's Progress**: Learning more about Bootstrap 4 in Colt Steele's Web Developer Bootcamp.  Putting aside JavaScript (except for a few problems I worked on earlier today) to get more comfortable with using CSS to layout pages.
+
+**Thoughts**: Hoping to finish my HTML/CSS forms project for FreeCodeCamp later tonight.
+
+**Links**:
+1. [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
