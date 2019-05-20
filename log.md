@@ -118,9 +118,27 @@
 
 ### Day 9 - May 14, 2019
 
-***Today's Progress**: Learning more about Bootstrap 4 in Colt Steele's Web Developer Bootcamp.  Putting aside JavaScript (except for a few problems I worked on earlier today) to get more comfortable with using CSS to layout pages.
+**Today's Progress**: Learning more about Bootstrap 4 in Colt Steele's Web Developer Bootcamp.  Putting aside JavaScript (except for a few problems I worked on earlier today) to get more comfortable with using CSS to layout pages.
 
 **Thoughts**: Hoping to finish my HTML/CSS forms project for FreeCodeCamp later tonight.
 
 **Links**:
 1. [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+
+### Day 10 - May 18, 2019
+
+**Today's Progress**: Made a lot progress on my technical documentation page for FreeCodeCamp.
+
+**Thoughts**: I'm glad to be back to working on code after being away for several days due to a conference for my job.  Recieved my copy of Eloquent JavaScript that I'm going to begin working through shortly.
+
+**Links to Resources**:
+1. [MDN](https://developer.mozilla.org/en-US/) 
+
+### Day 11 - May 19, 2019
+
+**Today's Progress**: Finished the Technical Documentation project for FreeCodeCamp. Moving forward on Colt Steele's Web Developer Bootcamp and learning about Bootstrap 4 and some of the useful utilities included with it. Might work on a few JavaScript challenges on FreeCodeCamp later this evening.
+
+**Thoughts**: Glad the Technical Documentation project is completed but would like to go back later to clean it up a bit and make it more appealing to the eye.
+
+**Links**:
+1. [Technical Documentation](https://codepen.io/mgmonk/full/WBROow)
