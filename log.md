@@ -142,3 +142,18 @@
 
 **Links**:
 1. [Technical Documentation](https://codepen.io/mgmonk/full/WBROow)
+
+### Day 12 - May 20, 2019
+
+**Today's Progress**: Learned about CSS Flexbox and the Bootstrap grid system on Colt Steele's Web Developer Bootcamp.
+
+**Thoughts**: Still trying to get comfortable designing with HTML/CSS
+
+**Links to Resources**:
+1. [Flexbox Froggy](http://flexboxfroggy.com/)
+
+### Day 13 - May 21, 2019
+
+**Today's Progress**: Built the Museum of Candy project using Bootstrap 4 from the Web Developer Bootcamp.
+
+**Thoughts**: Building the website took longer than I had expected but I learned a lot about using some of the utilities within Bootstrap 4 and using flexbox. Got a little refresher on using jQuery and definitely need to brush up. Diving into JavaScript tomorrow and continuing to work on my portfolio page to complete the first certification from FreeCodeCamp.
