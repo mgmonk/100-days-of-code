@@ -157,3 +157,9 @@
 **Today's Progress**: Built the Museum of Candy project using Bootstrap 4 from the Web Developer Bootcamp.
 
 **Thoughts**: Building the website took longer than I had expected but I learned a lot about using some of the utilities within Bootstrap 4 and using flexbox. Got a little refresher on using jQuery and definitely need to brush up. Diving into JavaScript tomorrow and continuing to work on my portfolio page to complete the first certification from FreeCodeCamp.
+
+### Day 14 - May 22, 2019
+
+**Today's Progress**: Completed the Intro to JavaScript module from the Web Developer Bootcamp.
+
+**Thoughts**: The intro was fairly basic, but it was good to have a nice refresher of JS before jumping into DOM manipulation.
