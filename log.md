@@ -163,3 +163,9 @@
 **Today's Progress**: Completed the Intro to JavaScript module from the Web Developer Bootcamp.
 
 **Thoughts**: The intro was fairly basic, but it was good to have a nice refresher of JS before jumping into DOM manipulation.
+
+### Day 15 - May 23, 2019
+
+**Today's Progress**: Made progress in the JavaScript Control Flow section of the Web Developer Bootcamp and read the introduction to Eloquent JavaScript.
+
+**Thoughts**: I'm ready to dive deeper into JS but I know it's important to build a solid foundation.
