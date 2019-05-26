@@ -175,3 +175,12 @@
 **Today's Progress**: Read Chapter 1 of Eloquent JavaScript.  Finished the Control Flow section of the Web Developer Bootcamp.
 
 **Thoughts**: I need to wrap up the HTML/CSS section of FreeCodeCamp and earning my first certificate by building out my project.  I need to take some time during the holiday weekend to make progress on the portfolio page.
+
+### Day 17 - May 25, 2019
+
+**Today's Progress**: Finished the Functions section of the Web Developer Bootcamp. Made some progress on the portfolio page for FreeCodeCamp.
+
+**Thoughts**: Feeling more comfortable with HTML/CSS as time goes on. Still far from where I'd like to be, but I'm getting there!
+
+**Links**:
+1. [Portfolio Page](https://codepen.io/mgmonk/full/WBEyqJ)
