@@ -169,3 +169,9 @@
 **Today's Progress**: Made progress in the JavaScript Control Flow section of the Web Developer Bootcamp and read the introduction to Eloquent JavaScript.
 
 **Thoughts**: I'm ready to dive deeper into JS but I know it's important to build a solid foundation.
+
+### Day 16 - May 24, 2019
+
+**Today's Progress**: Read Chapter 1 of Eloquent JavaScript.  Finished the Control Flow section of the Web Developer Bootcamp.
+
+**Thoughts**: I need to wrap up the HTML/CSS section of FreeCodeCamp and earning my first certificate by building out my project.  I need to take some time during the holiday weekend to make progress on the portfolio page.
