@@ -184,3 +184,24 @@
 
 **Links**:
 1. [Portfolio Page](https://codepen.io/mgmonk/full/WBEyqJ)
+
+### Day 18 - May 26, 2019
+
+**Today's Progress**: Made more progress on my porfolio page.  Not 100% complete or happy yet, but getting there.
+
+**Thoughts**: I find that I'm viewing websites I visit differently now. I saw a neat effect on the REI website yesterday that uses plain CSS to illustrate mountains.  I may take some time tomorrow to try to recreate that effect on my CodePen.
+
+**Links to Work**:
+1. [Portfolio Page](https://codepen.io/mgmonk/full/WBEyqJ)
+
+### Day 19 - May 27, 2019
+
+**Today's Progress**: Read Chapter 2 of Eloquent JavaScript and completed the exercises.
+
+**Thoughts**: Creating my own version of REI's mountain effect was a lot of fun! It was the first time I used the element inspector in Chrome to dissect a webpage and it was my first time using pseudo elements.
+
+**Links to Work**:
+1. [CSS Mountains](https://codepen.io/mgmonk/full/OYEdQQ)
+2. [Looping a Triangle](https://repl.it/@mgmonk/Looping-a-Triangle)
+3. [FizzBuzz](https://repl.it/@mgmonk/FizzBuzz)
+4. [Chessboard](https://repl.it/@mgmonk/Chessboard)
