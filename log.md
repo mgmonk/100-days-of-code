@@ -205,3 +205,10 @@
 2. [Looping a Triangle](https://repl.it/@mgmonk/Looping-a-Triangle)
 3. [FizzBuzz](https://repl.it/@mgmonk/FizzBuzz)
 4. [Chessboard](https://repl.it/@mgmonk/Chessboard)
+
+### Day 20 - May 28, 2019
+
+**Today's Progress**: Completed FreeCodeCamp's Basic JavaScript section.
+
+**Thoughts**: Day 20! I can't believe I'm 20% of the way there! Still a long way to go.  I'm nowhere near job ready but I feel that momentum is building.
+
