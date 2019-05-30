@@ -212,3 +212,13 @@
 
 **Thoughts**: Day 20! I can't believe I'm 20% of the way there! Still a long way to go.  I'm nowhere near job ready but I feel that momentum is building.
 
+### Day 21 - May 29, 2019
+
+**Today's Progress**: Read Chapter 3 of Eloquent JavaScript and commpleted the exercises.
+
+**Thoughts**: Need to study more about recursion and closure. Only picked up a very loose grasp on these two topics.
+
+**Links to Work**:
+1. [Minimum](https://repl.it/@mgmonk/Minimum)
+2. [Recursion](https://repl.it/@mgmonk/Recursion)
+3. [Bean Counting](https://repl.it/@mgmonk/Bean-Counting)
