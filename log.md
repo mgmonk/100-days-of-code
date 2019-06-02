@@ -222,3 +222,13 @@
 1. [Minimum](https://repl.it/@mgmonk/Minimum)
 2. [Recursion](https://repl.it/@mgmonk/Recursion)
 3. [Bean Counting](https://repl.it/@mgmonk/Bean-Counting)
+
+### Day 22 - June 1, 2019
+
+**Today's Progress**: Finished my final project for the web design certificate on FreeCodeCamp!
+
+**Thoughts**: Very happy to wrap up this certification. I know that I need to keep practicing and can't let myself slack off as a move into JavaScript even though I find myself enjoying JS a lot.
+
+**Links to Work**:
+
+1. [Portfolio Page](https://codepen.io/mgmonk/full/WBEyqJ)
