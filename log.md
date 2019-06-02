@@ -230,5 +230,4 @@
 **Thoughts**: Very happy to wrap up this certification. I know that I need to keep practicing and can't let myself slack off as a move into JavaScript even though I find myself enjoying JS a lot.
 
 **Links to Work**:
-
 1. [Portfolio Page](https://codepen.io/mgmonk/full/WBEyqJ)
