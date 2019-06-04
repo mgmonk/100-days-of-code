@@ -231,3 +231,18 @@
 
 **Links to Work**:
 1. [Portfolio Page](https://codepen.io/mgmonk/full/WBEyqJ)
+
+### Day 23 - June 2, 2019
+
+**Today's Progress**: Working through the JavaScrip Arrays section of the Web Developer Bootcamp.
+
+**Thouughts**:
+
+**Links to Work**:
+1. [To Do Application](https://repl.it/@mgmonk/Todos)
+
+### Day 24 - June 3, 2019
+
+**Today's Progress**: Finished the arrays module of the Web Developer Bootcamp.
+
+**Thoughts**: Feeling kinda down today so I didn't make as much progress as I would have liked. Still made the time to work on some code. I'm thinking of starting a personal project that I can add to my portfolio and force myself to push my boundaries a bit soon.
