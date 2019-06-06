@@ -246,3 +246,9 @@
 **Today's Progress**: Finished the arrays module of the Web Developer Bootcamp.
 
 **Thoughts**: Feeling kinda down today so I didn't make as much progress as I would have liked. Still made the time to work on some code. I'm thinking of starting a personal project that I can add to my portfolio and force myself to push my boundaries a bit soon.
+
+### Day 25 - June 5, 2019
+
+**Today's Progress**: Completed the JavaScript objects section of the Web Developer Bootcamp.
+
+**Thoughts**: Still a lot to learn, especially about using "this" in JavaScript.
