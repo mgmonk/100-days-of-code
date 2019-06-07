@@ -252,3 +252,13 @@
 **Today's Progress**: Completed the JavaScript objects section of the Web Developer Bootcamp.
 
 **Thoughts**: Still a lot to learn, especially about using "this" in JavaScript.
+
+### Day 26 - June 6, 2019
+
+**Today's Progress**: Read through Chapter 4 of Eloquent JavaScript and started the exercises.
+
+**Thoughts**: I found today's exercises to be difficult. It took me 2 hours to study the chapter and make it through two of the coding challenges. I'm making a point to really understand the code rather than just replicate the results.  My progress has definitely slowed as I get further into more advanced topics.
+
+**Links to Work**: 
+1. [Sum of a Range](https://repl.it/@mgmonk/The-Sum-of-a-Range)
+2. [Reversing an Array](https://repl.it/@mgmonk/Reversing-an-Array)
