@@ -236,8 +236,6 @@
 
 **Today's Progress**: Working through the JavaScrip Arrays section of the Web Developer Bootcamp.
 
-**Thouughts**:
-
 **Links to Work**:
 1. [To Do Application](https://repl.it/@mgmonk/Todos)
 
@@ -262,3 +260,15 @@
 **Links to Work**: 
 1. [Sum of a Range](https://repl.it/@mgmonk/The-Sum-of-a-Range)
 2. [Reversing an Array](https://repl.it/@mgmonk/Reversing-an-Array)
+
+### Day 27 - June 8, 2019
+
+**Today's Progress**: Completed some ES6 challenges on FreeCodeCamp. Watched some DOM manipulation lessons from the Web Developer Bootcamp.
+
+**Thoughts**: I went over some of my code from the exercises in Chapter 4 of Eloquent JavaScript last night. I am trying to study the solutions and internalize how/why they work. I didn't feel like that was enough progress to warrant a daily log.
+
+### Day 28 - June 9, 2019
+
+**Today's Progress**: Installed a Sass compiler so I can begin to start using learning that technology to speed up and enhance my CSS. Made some progress on FreeCodeCamp's ES6 challenges. Finished the DOM Manipulation section of the Web Developer's Bootcamp.
+
+**Thoughts**: I learned a bit of Sass a few years ago and I'm surprised some of it is coming back. Definitely a good technology to learn and I believe it will really help speed up my development later. Starting to get more comfortable with ES6 features like arrow functions and other JavaScript concepts like higher order functions.
