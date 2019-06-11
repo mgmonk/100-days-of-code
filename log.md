@@ -277,4 +277,4 @@
 
 **Today's Progress**: Watched Advanced DOM Manipulation from the Web Developer's Bootcamp.
 
-**Thoughts**: 
+**Thoughts**: Feeling better about using 'this', forEach, and writing arrow functions!
