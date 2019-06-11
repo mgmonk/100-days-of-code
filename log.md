@@ -272,3 +272,9 @@
 **Today's Progress**: Installed a Sass compiler so I can begin to start using learning that technology to speed up and enhance my CSS. Made some progress on FreeCodeCamp's ES6 challenges. Finished the DOM Manipulation section of the Web Developer's Bootcamp.
 
 **Thoughts**: I learned a bit of Sass a few years ago and I'm surprised some of it is coming back. Definitely a good technology to learn and I believe it will really help speed up my development later. Starting to get more comfortable with ES6 features like arrow functions and other JavaScript concepts like higher order functions.
+
+### Day 29 - June 10, 2019
+
+**Today's Progress**: Watched Advanced DOM Manipulation from the Web Developer's Bootcamp.
+
+**Thoughts**: 
