@@ -278,3 +278,12 @@
 **Today's Progress**: Watched Advanced DOM Manipulation from the Web Developer's Bootcamp.
 
 **Thoughts**: Feeling better about using 'this', forEach, and writing arrow functions!
+
+### Day 30 - June 11, 2019
+
+**Today's Progress**: Built a color picker game using HTML/CSS/JS. I added the link to the project on my Github in case anyone wants to download to check out.
+
+**Thoughts**: Becoming more comfortable with JavaScript.  Tying to learn how to dry up code by writing funcgions for repeated actions.
+
+**Links to Work**: 
+1. [Color Game on Github](https://github.com/mgmonk/Web-Developer-Bootcamp/tree/master/Color%20Game)
