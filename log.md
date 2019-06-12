@@ -287,3 +287,7 @@
 
 **Links to Work**: 
 1. [Color Game on Github](https://github.com/mgmonk/Web-Developer-Bootcamp/tree/master/Color%20Game)
+
+### Day 31 - June 12, 2019
+
+**Today's Progress**: Worked through a few JavaScript coding challenges on [CodeWars.com](www.codewars.com) to practice.
