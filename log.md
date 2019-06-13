@@ -290,4 +290,9 @@
 
 ### Day 31 - June 12, 2019
 
-**Today's Progress**: Worked through a few JavaScript coding challenges on [CodeWars.com](www.codewars.com) to practice.
+**Today's Progress**: Worked through a few JavaScript coding challenges on [CodeWars.com](www.codewars.com) to practice. Finished the color picker game I started last night. Watched the jQuery lessons in the Web Developer Bootcamp.
+
+**Thoughts**: jQuery seems much less vital today than it did several years ago when I first learned how to use it.  Feeling better about my JavaScript skills.
+
+**Links**:
+1. [Color Game on Github](https://github.com/mgmonk/Web-Developer-Bootcamp/tree/master/Color%20Game)
