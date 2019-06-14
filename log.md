@@ -296,3 +296,7 @@
 
 **Links**:
 1. [Color Game on Github](https://github.com/mgmonk/Web-Developer-Bootcamp/tree/master/Color%20Game)
+
+### Day 32 - June 13, 2019
+
+**Today's Progress**: Watched the Advanced jQuery section of the Web Developer Bootcamp. Didn't get as much done as I was hoping due to watching the NBA Finals! Just have to make this weekend all that much more productive.
