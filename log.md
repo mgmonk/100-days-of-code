@@ -300,3 +300,12 @@
 ### Day 32 - June 13, 2019
 
 **Today's Progress**: Watched the Advanced jQuery section of the Web Developer Bootcamp. Didn't get as much done as I was hoping due to watching the NBA Finals! Just have to make this weekend all that much more productive.
+
+### Day 33 - June 14, 2019
+
+**Today's Progress**: Built a simple to do app using HTML/CSS/JS.
+
+**Thoughts**: I got a domain name this week in preparation for when I begin to build my portfolio page.
+
+**Links to Work**:
+1. [To Do App code on GitHub](https://github.com/mgmonk/Web-Developer-Bootcamp/tree/master/Todo%20App)
