@@ -309,3 +309,12 @@
 
 **Links to Work**:
 1. [To Do App code on GitHub](https://github.com/mgmonk/Web-Developer-Bootcamp/tree/master/Todo%20App)
+
+### Day 34 - June 15, 2019
+
+**Today's Progress**: Built a Patatap clone. Made a lot of progress with learning Node.js and about backend technology. Set up an AWS account to use Cloud9 with and a local development environment. Used the tool Postman for the first time to inspect HTML GET/POST requests.
+
+**Thoughts**: I'm thinking of putting my Patatap clone into CodePen so that I can share it more easily (or maybe on AWS S3). Also, very happy with myself for troubleshooting an issue with the latest version of Paper.js. I needed to roll back to a previous stable version to correct some issues with animating color. Starting to learn about backend development for the first time. Not going to lie, I'm slightly intimidated but also excited to learn more.
+
+**Links to Work**:
+1. [Patatap Clone](https://github.com/mgmonk/Web-Developer-Bootcamp/tree/master/Patatap%20Clone)
