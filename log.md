@@ -318,3 +318,9 @@
 
 **Links to Work**:
 1. [Patatap Clone](https://github.com/mgmonk/Web-Developer-Bootcamp/tree/master/Patatap%20Clone)
+
+### Day 35 - June 16, 2019
+
+**Today's Progress**: Started learning Express.js through the Web Developer's Bootcamp. Learned basic routing and how to manage packages using NPM.
+
+**Thoughts**: I'm having a much easier time picking up backend routing with Express.js than when I tried to learn Ruby on Rails a few years ago. It's making so much more sense to me now. I'm very motivated after seeing the progress I was able to make over the past two days.
