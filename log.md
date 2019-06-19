@@ -324,3 +324,13 @@
 **Today's Progress**: Started learning Express.js through the Web Developer's Bootcamp. Learned basic routing and how to manage packages using NPM.
 
 **Thoughts**: I'm having a much easier time picking up backend routing with Express.js than when I tried to learn Ruby on Rails a few years ago. It's making so much more sense to me now. I'm very motivated after seeing the progress I was able to make over the past two days.
+
+### Day 36 - June 17, 2019
+
+**Today's Progress**: Made a lot of progress on the Web Developer's Bootcamp today! Learned a TON about routing with Express.js and using different packages in Node. Also, learned how to use EJS templates to build partials and compile them into full web pages.  
+
+**Thoughts**: Tomorrow I get to learn about APIs, which, is something I'm super excited about.
+
+### Day 37 - June 18, 2019
+
+**Today's Progress**: Learned a bit about how to make API requests with the Request package in Node. Also, played around with Postman to learn how to make queries to APIs.
