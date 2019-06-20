@@ -334,3 +334,9 @@
 ### Day 37 - June 18, 2019
 
 **Today's Progress**: Learned a bit about how to make API requests with the Request package in Node. Also, played around with Postman to learn how to make queries to APIs.
+
+### Day 38 - June 19, 2019
+
+**Today's Progress**: Today I made a simple web app that allows a user to search the OMDb for their favorite movies.
+
+**Thoughts**: I like using APIs! I'm looking forward to playing around with APIs in the future and already have a few ideas for some simple apps I can make to continue learning.
