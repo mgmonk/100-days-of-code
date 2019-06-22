@@ -340,3 +340,15 @@
 **Today's Progress**: Today I made a simple web app that allows a user to search the OMDb for their favorite movies.
 
 **Thoughts**: I like using APIs! I'm looking forward to playing around with APIs in the future and already have a few ideas for some simple apps I can make to continue learning.
+
+### Day 39 - June 20, 2019
+
+**Today's Progress**: Started to build the YelpCamp application for The Web Developer Bootcamp.
+
+**Thoughts**: I'm getting comfortable with Express boilerplate and working in AWS Cloud9.
+
+### Day 40 - June 21, 2019
+
+**Today's Progress**: Continued working on the YelpCamp application. Built the POST route to allow a user to add new campground records and learned about about REST conventions. Learned how to style EJS tempaltes and use bootstrap to style an application.
+
+**Thoughts**: I feel like I'm starting to learn about actual web development, but starting to learn only highlights how much there is to still learn. I know there is no way I will ever know it all by heart, so I'm still focusing on learning how to learn.
