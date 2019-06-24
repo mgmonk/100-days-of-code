@@ -352,3 +352,16 @@
 **Today's Progress**: Continued working on the YelpCamp application. Built the POST route to allow a user to add new campground records and learned about about REST conventions. Learned how to style EJS tempaltes and use bootstrap to style an application.
 
 **Thoughts**: I feel like I'm starting to learn about actual web development, but starting to learn only highlights how much there is to still learn. I know there is no way I will ever know it all by heart, so I'm still focusing on learning how to learn.
+
+### Day 41 - June 22, 2019
+
+**Today's Progress**: Installed MondoDB in my local dev environment. Used Mongoose to connect YelpCamp to the database.
+
+**Thoughts**: I definitely feel like I'm making progress and becoming familiar with more of web development. I do want to pause a bit and go over what I've already learned to ensure that I'm retaining the knowledge and gaining a deep understanding. I'm thinking of taking Wes Bos' JavaScript 30 and watching some crash courses on Traversy Media's YouTube channel. I also plan to continue reading more of Eloquent JavaScript.
+
+### Day 42 - June 23, 2019
+
+**Today's Progress**: Built out the database integration for the YelpCamp app so that a user can save a new campground into the database using a form. Watched the Express JS Crash Course video from Traversy Media.
+
+**Links**:
+1. [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=8)
