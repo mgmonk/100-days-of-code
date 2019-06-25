@@ -365,3 +365,9 @@
 
 **Links**:
 1. [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=8)
+
+### Day 43 - June 24, 2019
+
+**Today's Progress**: Did the first two days of Wes Bos' JavaScript 30.
+
+**Thoughts**: It was good to get a refresher on some of the concepts I've already seen and experience them being taught by a different teacher. I was surprised how rusty I got selecting DOM elements with query selectors! I need to make a better effort to practice what I've learned thoroughly.
