@@ -371,3 +371,7 @@
 **Today's Progress**: Did the first two days of Wes Bos' JavaScript 30.
 
 **Thoughts**: It was good to get a refresher on some of the concepts I've already seen and experience them being taught by a different teacher. I was surprised how rusty I got selecting DOM elements with query selectors! I need to make a better effort to practice what I've learned thoroughly.
+
+### Day 44 - June 30, 2019
+
+**Today's Progress**: Worked on building a blogging application as part of the web developer's bootcamp and did a day from JavaScript 30. For JavaScript 30, I learned how to use CSS variables and control them with JS.
